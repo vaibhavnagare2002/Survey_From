@@ -1,0 +1,21 @@
+body{
+    background-color: rgb(149, 22, 212);
+    background-image:url(travel.jpg);
+    background-attachment:fixed;
+    background-size:cover;
+    background-position:relative;
+    text-align: center;
+}
+p{
+    text-align: center;
+    font-weight: bolder;
+    font-size: 50px;
+    color: black;
+    font-style: italic;
+    display:flex;
+    /* this centers the text horizontally*/
+    justify-content: center;
+    /* this centers the text vertically*/
+    align-items: center;
+    height: 200px;
+    }
